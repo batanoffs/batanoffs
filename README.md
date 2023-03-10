@@ -6,8 +6,7 @@ I'm Daniel from Bulgaria, passionate about design and software with 3+ years of 
 - ⚡ Fun fact: I am also an Architect, not an IT one
 
 #### Connect me:
-[<img width="70" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/batanoffs)
-[<img width="70" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/daniel-batanov-6799b31a3//)  
+[<img width="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/daniel-batanov-6799b31a3//)  
 
 #### Languages and Tools:
 <img align="left" alt="JS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
