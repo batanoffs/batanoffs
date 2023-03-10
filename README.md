@@ -12,7 +12,7 @@ Skills: JS / HTML / CSS
 
 #
 
-<h1 align="center">Certificates </h1>
+<h2 align="center">Certificates </h2>
 
 <table>
 
