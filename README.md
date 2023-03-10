@@ -13,7 +13,7 @@ I'm Daniel from Bulgaria, passionate about design and software with 3+ years of 
 <br> </br>
 
 #### Connect me:
-[<img align="left" alt='linkedin' width="30px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg'>](https://www.linkedin.com/in/https://www.linkedin.com/in/daniel-batanov-6799b31a3//)
+[<img align="left" alt='linkedin' width="30px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg'>](https://www.linkedin.com/in/daniel-batanov-6799b31a3/)
 <br> </br>
 
 #
