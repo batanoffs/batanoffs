@@ -32,7 +32,7 @@ I'm Daniel from Bulgaria, passionate about design and software with 3+ years of 
 <tr>
 <td>
 
-| **Course**                                                            | **Link**                                                   |
+| **Course**                                                            | **Certificate**                                                   |
 | --------------------------------------------------------------------- | ---------------------------------------------------------- |
 | <a href="https://softuni.bg/trainings/3991/programming-basics-with-javascript-january-2023" > Programming Basics with JavaScript </a>         | <a href="https://softuni.bg/Certificates/Details/159814/4fcfee60"> Click here</a> |
 
@@ -40,11 +40,11 @@ I'm Daniel from Bulgaria, passionate about design and software with 3+ years of 
   
   ---------------------------------------------------------------------------------
   
-| **Course**                                                            | **Link**                                                   |
+| **Course**                                                            | **Certificate**                                                   |
 | --------------------------------------------------------------------- | ---------------------------------------------------------- |
-| <a href="https://softuni.bg/modules/106/fundamentals-module-may-2023/1401" > Programming Fundamentals with JavaScript </a>    | <a href=""> Currently working on</a> |
+| <a href="https://softuni.bg/modules/106/fundamentals-module-may-2023/1401" > Programming Fundamentals with JavaScript </a>    | <h3>Currently working on</h3> |
 
-  Grade: - (out of 6.00)<br /> Issue Date: 00/05/2023</th>
+  Grade: - (out of 6.00)<br /> Issue Date: 09/05/2023</th>
   
   </table>
   </tr>
