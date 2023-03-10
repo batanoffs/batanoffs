@@ -42,7 +42,7 @@ I'm Daniel from Bulgaria, passionate about design and software with 3+ years of 
   
 | **Course**                                                            | **Certificate**                                                   |
 | --------------------------------------------------------------------- | ---------------------------------------------------------- |
-| <a href="https://softuni.bg/modules/106/fundamentals-module-may-2023/1401" > Programming Fundamentals with JavaScript </a>    | <h3>Currently working on</h3> |
+| <a href="https://softuni.bg/modules/106/fundamentals-module-may-2023/1401" > Programming Fundamentals with JavaScript </a>    | <h4>Currently working on</h4> |
 
   Grade: - (out of 6.00)<br /> Issue Date: 09/05/2023</th>
   
