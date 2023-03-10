@@ -19,6 +19,8 @@ I'm Daniel from Bulgaria, passionate about design and software with 3+ years of 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=batanoffs)](https://github.com/ryo-ma/github-profile-trophy)
 
+<br> </br>
+
 #### Certificates
 
 <table>
