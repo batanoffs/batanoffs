@@ -1,5 +1,5 @@
 ### Hi there 👋,I am Daniel Batanov
-#### A JavaScript student at SoftUni.bg
+#### JavaScript student at SoftUni.bg
 I'm Daniel from Bulgaria, passionate about design and software with 3+ years of experience in Architecture. Currently studing JavaScript at Software University. I am a fast learner able to adapt to the project deadline. Eager to improve and capitalize on excellent soft skills. Experienced in working with both small and large teams across multiple projects and companies.
 
 Skills: JS / HTML / CSS
