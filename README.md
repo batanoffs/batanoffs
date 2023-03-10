@@ -5,11 +5,11 @@ I'm Daniel from Bulgaria, passionate about design and software with 3+ years of 
 - 🌱 I’m currently learning JavaScript 
 - ⚡ Fun fact: I am also an Architect, not an IT one
 
-###Connect me:
+#### Connect me:
 [<img width="70" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/batanoffs)
 [<img width="70" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/daniel-batanov-6799b31a3//)  
 
-###Languages and Tools:
+#### Languages and Tools:
 <img align="left" alt="JS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="left" alt="JS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="left" alt="JS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> 
