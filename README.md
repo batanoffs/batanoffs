@@ -14,3 +14,33 @@ Skills: JS / HTML / CSS
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=batanoffs&show_icons=true&theme=radical" />
 <img align="left" width = "48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batanoffs&layout=compact"/>
 
+<h1 align="center">Certificates </h1>
+
+<table>
+
+<tr>
+ <th> JavaScript </th>
+</tr>
+
+<tr>
+<td>
+
+| **Course**                                                            | **Link**                                                   |
+| --------------------------------------------------------------------- | ---------------------------------------------------------- |
+| <a href="https://softuni.bg/trainings/3991/programming-basics-with-javascript-january-2023" > Programming Basics with JavaScript </a>         | <a href="https://softuni.bg/Certificates/Details/159814/4fcfee60"> Click here</a> |
+
+  Grade: 5.81 (out of 6.00)<br /> Issue Date: 21/02/2023</th>
+  
+  ---------------------------------------------------------------------------------
+  
+| **Course**                                                            | **Link**                                                   |
+| --------------------------------------------------------------------- | ---------------------------------------------------------- |
+| <a href="https://softuni.bg/modules/106/fundamentals-module-may-2023/1401" > Programming Fundamentals with JavaScript </a>    | <a href=""> Currently working on</a> |
+
+  Grade: - (out of 6.00)<br /> Issue Date: 00/05/2023</th>
+  
+  </table>
+  </tr>
+</td>
+ 
+
