@@ -12,8 +12,6 @@ Connect me:
 [<img width="70" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/batanoffs)
 [<img width="70" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/daniel-batanov-6799b31a3//)  
 
-#
-
 <h2 align="center">Certificates </h2>
 
 <table>
