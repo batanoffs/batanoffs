@@ -7,12 +7,10 @@ Skills: JS / HTML / CSS
 - 🌱 I’m currently learning JavaScript 
 - ⚡ Fun fact: I am also Master of Architecture 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/batanoffs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/daniel-batanov-6799b31a3//)  
-#
-[![trophy](https://github-profile-trophy.vercel.app/?username=batanoffs)](https://github.com/ryo-ma/github-profile-trophy)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/batanoffs)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/daniel-batanov-6799b31a3//)  
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=batanoffs&show_icons=true&theme=radical" />
-<img align="left" width = "48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batanoffs&layout=compact"/>
+#
 
 <h1 align="center">Certificates </h1>
 
@@ -43,4 +41,12 @@ Skills: JS / HTML / CSS
   </tr>
 </td>
  
+#
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=batanoffs)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=batanoffs&show_icons=true&theme=radical" />
+<img align="left" width = "48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batanoffs&layout=compact"/>
+
+
 
