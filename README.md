@@ -5,7 +5,7 @@ I'm Daniel from Bulgaria, passionate about design and software with 3+ years of 
 Skills: JS / HTML / CSS
 
 - 🌱 I’m currently learning JavaScript 
-- ⚡ Fun fact: I am also Master of Architecture 
+- ⚡ Fun fact: I am also an Architect, not an IT one
 
 Connect me:
 
