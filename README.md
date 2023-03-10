@@ -15,7 +15,9 @@ I'm Daniel from Bulgaria, passionate about design and software with 3+ years of 
 #### Connect me:
 [<img align="left" alt='linkedin' width="30px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg'>](https://www.linkedin.com/in/https://www.linkedin.com/in/daniel-batanov-6799b31a3//)
 
-<br> </br>
+#
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=batanoffs)](https://github.com/ryo-ma/github-profile-trophy)
 
 #### Certificates
 
@@ -47,8 +49,6 @@ I'm Daniel from Bulgaria, passionate about design and software with 3+ years of 
 </td>
  
 #
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=batanoffs)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=batanoffs&show_icons=true&theme=radical" />
 <img align="left" width = "48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batanoffs&layout=compact"/>
