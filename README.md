@@ -14,12 +14,14 @@ Skills: JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batanoffs)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=batanoffs&show_icons=true)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=batanoffs&show_icons=true&theme=radical)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=batanoffs)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=batanoffs)  
 
-![GitHub metrics](https://metrics.lecoq.io/batanoffs)  
+![GitHub metrics](https://metrics.lecoq.io/batanoffs)   -->
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=batanoffs)  
 
 ![Profile views](https://gpvc.arturio.dev/batanoffs)  
+
+
