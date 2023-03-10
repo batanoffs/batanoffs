@@ -12,13 +12,8 @@ Skills: JS / HTML / CSS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=batanoffs)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batanoffs)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=batanoffs&show_icons=true&theme=radical)
-
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=batanoffs)  
-
-![GitHub metrics](https://metrics.lecoq.io/batanoffs)   -->
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=batanoffs&show_icons=true&theme=radical" />
+<img align="left" width = "47" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batanoffs)](https://github.com/anuraghazra/github-readme-stats" />
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=batanoffs)  
 
