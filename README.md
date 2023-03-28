@@ -24,7 +24,7 @@ I'm from Bulgaria, passionate about design and software with 3+ years of experie
 [![trophy](https://github-profile-trophy.vercel.app/?username=batanoffs)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-### Certificates
+#### Certificates:
 
 <table>
 
