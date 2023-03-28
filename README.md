@@ -18,6 +18,11 @@ I'm from Bulgaria, passionate about design and software with 3+ years of experie
 
 #
 
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=batanoffs&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide=contribs" alt="GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batanoffs&layout=compact&hide_border=true" /> |
+| ------------- | ------------- |
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=batanoffs)](https://github.com/ryo-ma/github-profile-trophy)
 
 
@@ -51,9 +56,9 @@ I'm from Bulgaria, passionate about design and software with 3+ years of experie
 </td>
  
 #
-
+<!-- 
 <img align="left" width = "47%" src="https://github-readme-stats.vercel.app/api?username=batanoffs&show_icons=true&theme=radical" />
-<img align="left" width = "47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batanoffs&layout=compact"/>
+<img align="left" width = "47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batanoffs&layout=compact"/> -->
 
 
 
