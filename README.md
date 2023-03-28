@@ -16,8 +16,6 @@ I'm from Bulgaria, passionate about design and software with 3+ years of experie
 [<img align="left" alt='linkedin' width="30px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg'>](https://www.linkedin.com/in/daniel-batanov-6799b31a3/)
 <br> </br>
 
-#
-
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=batanoffs&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide=contribs" alt="GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batanoffs&layout=compact&hide_border=true" /> |
 | ------------- | ------------- |
