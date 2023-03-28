@@ -52,11 +52,3 @@ I'm from Bulgaria, passionate about design and software with 3+ years of experie
   </table>
   </tr>
 </td>
- 
-#
-<!-- 
-<img align="left" width = "47%" src="https://github-readme-stats.vercel.app/api?username=batanoffs&show_icons=true&theme=radical" />
-<img align="left" width = "47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batanoffs&layout=compact"/> -->
-
-
-
