@@ -41,13 +41,15 @@ I'm from Bulgaria, passionate about design and software with 3+ years of experie
 
 Grade: 5.81 (out of 6.00)<br /> Issue Date: 21/02/2023</th>
   
-  ---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
   
 | **Course**                                                            | **Certificate**                                                   |
 | --------------------------------------------------------------------- | ---------------------------------------------------------- |
 | <a href="https://softuni.bg/modules/106/fundamentals-module-may-2023/1401" > Programming Fundamentals with JavaScript </a>    | <a href="https://softuni.bg/Certificates/Details/180198/31625e83"> Click here</a> |
 
-Grade: - (5.73 out of 6.00)<br /> Issue Date: 09/05/2023</th>
+Grade: 5.73 (out of 6.00)<br /> Issue Date: 09/05/2023</th>
+
+---------------------------------------------------------------------------------
 
 | **Course**                                                            | **Certificate**                                                   |
 | --------------------------------------------------------------------- | ---------------------------------------------------------- |
