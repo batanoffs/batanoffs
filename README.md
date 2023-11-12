@@ -22,37 +22,37 @@ develop an urban project for 7 days
 #### :busts_in_silhouette: Workshops
 - **Youth Festival "The Bridge"** - teacher for an architecture workshop able to inspire design thinking in youth
 - **Erasmus + "Youthpass”** - Worked in team with Dutch attendance as a tutor of social and cultural workshop based in Varna, Bulgaria
-  
-<br> </br>
 
 ### How to reach me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/daniel-batanov-6799b31a3/])
+
 <br> </br>
 
 ### Hobbies and interests: 
 Basketball, design thinking, finances, volunteering, psychology, boardgames, growing plants
-<br> </br>
-
-### Certificates
-
-| Course                            | Grade                     | Finish Date                | Certificate                                   |
-| --------------------------------- | ------------------------- | ------------------------- | --------------------------------------------- |
-| Programming Basics with JavaScript | Grade: 5.81 (out of 6.00) | February 21, 2023           | [Link](https://softuni.bg/Certificates/Details/159814/4fcfee60) |
-| Programming Fundamentals with JavaScript | Grade: 5.73 (out of 6.00) | August 01, 2023         | [Link](https://softuni.bg/Certificates/Details/180198/31625e83) |
-| JavaScript Advanced               | in progress | in progress   | in progress |
-
 <br> </br>
 ### Technologies and tools
 <img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="left" alt="JS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="github" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
-<img align="left" alt="mocha" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/mocha/mocha-plain.svg"/>
+<img align="left" alt="mocha" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/mocha/mocha-plain.svg"/><br> </br>
+
+
+
+### Certificates
+
+| Course                            | Grade                     | Finish Date                | Certificate                                   |
+| --------------------------------- | ------------------------- | ------------------------- | --------------------------------------------- |
+| **Programming Basics with JavaScript** | Grade: 5.81 (out of 6.00) | February 21, 2023           | [Link](https://softuni.bg/Certificates/Details/159814/4fcfee60) |
+| **Programming Fundamentals with JavaScript** | Grade: 5.73 (out of 6.00) | August 01, 2023         | [Link](https://softuni.bg/Certificates/Details/180198/31625e83) |
+| **JavaScript Advanced**              | in progress | in progress   | in progress |
+
+
 <br> </br>
 
 ### GitHub Trophies
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=batanoffs&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide=contribs" alt="GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batanoffs&layout=compact&hide_border=true" /> |
 | ------------- | ------------- |
 
-<a href="#"><img align="center" src="https://github-profile-trophy.vercel.app/?username=batanoffs&column=-1&margin-w=2&margin-h=2" alt="GitHub Trophies" /></a>
-
+<a href="#"><img align="center" src="https://github-profile-trophy.vercel.app/?username=batanoffs&column=-1&margin-w=8&margin-h=2" alt="GitHub Trophies" /></a>
