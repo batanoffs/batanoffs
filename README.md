@@ -41,17 +41,18 @@ Basketball, design thinking, finances, volunteering, psychology, boardgames, gro
 
 <br> </br>
 ## Technologies and tools
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img align="left" alt="JS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="github" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
-<img align="left" alt="mocha" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/mocha/mocha-plain.svg"/>
+<img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="left" alt="JS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="github" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
+<img align="left" alt="mocha" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/mocha/mocha-plain.svg"/>
 <br> </br>
 
 ## GitHub Trophies
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=batanoffs&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide=contribs" alt="GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batanoffs&layout=compact&hide_border=true" /> |
 | ------------- | ------------- |
-
+<br> </br>
+## GitHub Stats
 <a href="#"><img align="center" src="https://github-profile-trophy.vercel.app/?username=batanoffs=7" alt="GitHub Trophies" /></a>
 
 
