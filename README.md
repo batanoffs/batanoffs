@@ -1,11 +1,30 @@
-### Hi there, I am Daniel Batanov
+## 👋 Introduction & Bio
+### Hi, I am Daniel Batanov 🇧🇬
 #### JavaScript student at SoftUni.bg
 I'm from Bulgaria, passionate about design and software with 3+ years of experience in Architecture. Currently studing JavaScript at Software University. I am a fast learner able to adapt to the project deadline. Eager to improve and capitalize on excellent soft skills. Experienced in working with both small and large teams across multiple projects and companies.
 
-- 🌱 I’m currently learning JavaScript 
-- ⚡ Fun fact: I am also an Architect, not an IT one
+### 🎓 Education
+- **Software University** (January 2023-present) - Professional degree in Software Engineering with front-end web development
+- **University of Architecture, Civil Engineering and Geodesy** (2015-2020) - Bachelor of Arts in Computer Science
+- **Highschool of Mathematics Baba Tonka
 
-#### Languages and Tools:
+- ### 💻 Work
+- **Architect** - IPA architecture and more
+- **Junior architect** - Design Art K&K
+- **Junior architect** - Integra Consult Project
+- **Quality Assurance** - Gameloft
+
+### 🏆 Awards
+- **2st place** - Interdisciplinary Student Workshop - Worked in a team of 8 individuals as a leader to
+develop an urban project for 7 days
+- **Top 10** - Multiple Math Olympiads - highschool
+- **7th place** - Regional Chemistry Olympiad - highschool
+
+### Workshops
+- **Youth Festival "The Bridge"** - teacher for an architecture workshop able to inspire design thinking in youth
+- **Erasmus + "Youthpass”** - Worked in team with Dutch attendance as a tutor of social and cultural workshop based in Varna, Bulgaria
+- 
+## Technologies and tools
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="left" alt="JS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
@@ -18,6 +37,7 @@ I'm from Bulgaria, passionate about design and software with 3+ years of experie
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=batanoffs&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide=contribs" alt="GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batanoffs&layout=compact&hide_border=true" /> |
 | ------------- | ------------- |
 
+## GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=batanoffs)](https://github.com/ryo-ma/github-profile-trophy)
 
