@@ -31,18 +31,22 @@ develop an urban project for 7 days
 
 <br> </br>
 
-#### 🔗 How to reach me:
+## 🔗 How to reach me:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/daniel-batanov-6799b31a3/))
+
+<br> </br>
+
+## GitHub Trophies
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=batanoffs&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide=contribs" alt="GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batanoffs&layout=compact&hide_border=true" /> |
 | ------------- | ------------- |
 
-## GitHub Trophies
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=batanoffs)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-#### Certificates:
+<br> </br>
+## Certificates:
 
 <table>
 
