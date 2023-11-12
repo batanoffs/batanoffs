@@ -23,22 +23,18 @@ develop an urban project for 7 days
 - **Youth Festival "The Bridge"** - teacher for an architecture workshop able to inspire design thinking in youth
 - **Erasmus + "Youthpass”** - Worked in team with Dutch attendance as a tutor of social and cultural workshop based in Varna, Bulgaria
 
-### How to reach me
+### 📫 How to reach me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/daniel-batanov-6799b31a3/])
-
-<br> </br>
 
 ### Hobbies and interests: 
 Basketball, design thinking, finances, volunteering, psychology, boardgames, growing plants
-<br> </br>
+
 ### Technologies and tools
 <img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="left" alt="JS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="github" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
-<img align="left" alt="mocha" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/mocha/mocha-plain.svg"/><br> </br>
-
-
+<img align="left" alt="mocha" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/mocha/mocha-plain.svg"/>
 
 ### Certificates
 
