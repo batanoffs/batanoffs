@@ -51,10 +51,9 @@ Basketball, design thinking, finances, volunteering, psychology, boardgames, gro
 ## GitHub Trophies
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=batanoffs&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide=contribs" alt="GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batanoffs&layout=compact&hide_border=true" /> |
 | ------------- | ------------- |
-<br> </br>
-## GitHub Stats
+
 <a href="#"><img align="center" src="https://github-profile-trophy.vercel.app/?username=batanoffs=7" alt="GitHub Trophies" /></a>
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=batanoffs)](https://github.com/ryo-ma/github-profile-trophy)
 
 
