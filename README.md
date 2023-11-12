@@ -38,8 +38,8 @@ Basketball, design thinking, finances, volunteering, psychology, boardgames, gro
 | Programming Basics with JavaScript | Grade: 5.81 (out of 6.00) | February 21, 2023           | [Link](https://softuni.bg/Certificates/Details/159814/4fcfee60) |
 | Programming Fundamentals with JavaScript | Grade: 5.73 (out of 6.00) | August 01, 2023         | [Link](https://softuni.bg/Certificates/Details/180198/31625e83) |
 | JavaScript Advanced               | in progress | in progress   | in progress |
-<br> </br>
 
+<br> </br>
 ## Technologies and tools
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
