@@ -8,7 +8,7 @@ I'm from Bulgaria, passionate about design and software with 3+ years of experie
 - **University of Architecture, Civil Engineering and Geodesy** (2015-2020) - Bachelor of Arts in Computer Science
 - **Highschool of Mathematics Baba Tonka
 
-- ### 💻 Work
+### 💻 Work
 - **Architect** - IPA architecture and more
 - **Junior architect** - Design Art K&K
 - **Junior architect** - Integra Consult Project
@@ -23,7 +23,7 @@ develop an urban project for 7 days
 ### Workshops
 - **Youth Festival "The Bridge"** - teacher for an architecture workshop able to inspire design thinking in youth
 - **Erasmus + "Youthpass”** - Worked in team with Dutch attendance as a tutor of social and cultural workshop based in Varna, Bulgaria
-- 
+  
 ## Technologies and tools
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
@@ -31,7 +31,7 @@ develop an urban project for 7 days
 
 <br> </br>
 
-#### 🔗 Links
+#### 🔗 How to reach me:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/daniel-batanov-6799b31a3/))
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=batanoffs&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide=contribs" alt="GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batanoffs&layout=compact&hide_border=true" /> |
