@@ -6,7 +6,7 @@ I am a fast learner able to adapt to the project deadline. Eager to improve and 
 ### 🎓 Education
 - **Software University** (January 2023-present) - Professional degree in Software Engineering with front-end web development
 - **University of Architecture, Civil Engineering and Geodesy** (2015-2020) - Bachelor of Arts in Computer Science
-- **Highschool of Mathematics Baba Tonka
+- **Highschool of Mathematics Baba Tonka** - Profile - Information techmology
 
 ### 💻 Work
 - **Architect** - IPA architecture and more
