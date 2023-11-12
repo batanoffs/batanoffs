@@ -50,7 +50,7 @@ Basketball, design thinking, finances, volunteering, psychology, boardgames, gro
 
 | Course                            | Grade                     | Certificate                                   |
 | --------------------------------- | ------------------------- | --------------------------------------------- |
-| Programming Basics with JavaScript | Grade: 4.50 (out of 6.00) | [Certificate Link](https://softuni.bg/trainings/3991/programming-basics-with-javascript-january-2023) |
-| Programming Fundamentals with JavaScript | Grade: 5.25 (out of 6.00) | [Certificate Link]([link-to-programming-fundamentals-certificate](https://softuni.bg/modules/106/fundamentals-module-may-2023/1401)) |
-| JavaScript Advanced               | Grade: 5.75 (out of 6.00) | [Certificate Link](in progress) |
+| Programming Basics with JavaScript | Grade: 5.81 (out of 6.00) | [Certificate Link](https://softuni.bg/Certificates/Details/159814/4fcfee60) |
+| Programming Fundamentals with JavaScript | Grade: 5.73 (out of 6.00) | [Certificate Link](https://softuni.bg/Certificates/Details/180198/31625e83) |
+| JavaScript Advanced               | in progress | [in progress]() |
 
