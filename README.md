@@ -24,7 +24,7 @@ develop an urban project for 7 days
 - **Erasmus + "Youthpass”** - Worked in team with Dutch attendance as a tutor of social and cultural workshop based in Varna, Bulgaria
 
 #### 🤹 Hobbies and interests: 
-Basketball, boardgames, finances, volunteering, psychology, design, growing plants
+Boardgames, finances, volunteering, psychology, design, growing plants, basketball, table tennis, squash, billiard
 
 ## 📫 How to reach me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/daniel-batanov-6799b31a3/])
@@ -40,11 +40,13 @@ Basketball, boardgames, finances, volunteering, psychology, design, growing plan
 <br> </br>
 
 ## Certificates
-| Course                            | Grade                     | Finish Date                | Certificate                                   |
-| --------------------------------- | ------------------------- | ------------------------- | --------------------------------------------- |
-| **Programming Basics with JavaScript** | Grade: 5.81 (out of 6.00) | February 21, 2023           | [Link](https://softuni.bg/Certificates/Details/159814/4fcfee60) |
-| **Programming Fundamentals with JavaScript** | Grade: 5.73 (out of 6.00) | August 01, 2023         | [Link](https://softuni.bg/Certificates/Details/180198/31625e83) |
-| **JavaScript Advanced**              | in progress | in progress   | in progress |
+| Course                                                                                              | Grade                     | Finish Date       |
+| --------------------------------------------------------------------------------------------------- | ------------------------- | ----------------- |
+| [Programming Basics with JavaScript](https://softuni.bg/Certificates/Details/159814/4fcfee60)       | Grade: 5.81 (out of 6.00) | February 21, 2023 |              
+| [Programming Fundamentals with JavaScript](https://softuni.bg/Certificates/Details/180198/31625e83) | Grade: 5.73 (out of 6.00) | August 01, 2023   | 
+| JavaScript Advanced                                                                                 | in progress               | in progress       |
+| [JavaScript Applications](https://softuni.bg/Certificates/Details/195298/1f9f9bde)                  | Grade: 6.00 (out of 6.00) | December 05, 2023 |
+
 <br> </br>
 
 ### GitHub Trophies
