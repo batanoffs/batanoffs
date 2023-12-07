@@ -27,7 +27,7 @@ develop an urban project for 7 days
 Boardgames, finances, volunteering, psychology, design, growing plants, basketball, table tennis, squash, billiard
 
 ## 📫 How to reach me
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/daniel-batanov-6799b31a3/])
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://bg.linkedin.com/in/daniel-batanov-6799b31a3)
 
 
 
