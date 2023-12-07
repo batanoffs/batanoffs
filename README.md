@@ -43,8 +43,8 @@ Boardgames, finances, volunteering, psychology, design, growing plants, basketba
 | Course                                                                                              | Grade                     | Finish Date       |
 | --------------------------------------------------------------------------------------------------- | ------------------------- | ----------------- |
 | [Programming Basics with JavaScript](https://softuni.bg/Certificates/Details/159814/4fcfee60)       | Grade: 5.81 (out of 6.00) | February 21, 2023 |              
-| [Programming Fundamentals with JavaScript](https://softuni.bg/Certificates/Details/180198/31625e83) | Grade: 5.73 (out of 6.00) | August 01, 2023   | 
-| JavaScript Advanced                                                                                 | in progress               | in progress       |
+| [Programming Fundamentals with JavaScript](https://softuni.bg/Certificates/Details/180198/31625e83) | Grade: 5.73 (out of 6.00) | August   01, 2023 | 
+| [JavaScript Advanced](https://softuni.bg/Certificates/Details/195467/d2fe5f99)                      | Grade: 6.00 (out of 6.00) | December 07, 2023 |
 | [JavaScript Applications](https://softuni.bg/Certificates/Details/195298/1f9f9bde)                  | Grade: 6.00 (out of 6.00) | December 05, 2023 |
 
 <br> </br>
