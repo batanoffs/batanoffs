@@ -2,6 +2,9 @@
 ### Hi, I am Daniel Batanov 🇧🇬
 I'm from Bulgaria, passionate about design and software development, with 3+ years of experience in architecture. I am currently studying web development at Software University. I am a fast learner and am able to adapt to the project deadline. Eager to improve and capitalize on excellent soft skills. I am experienced in working with both small and large teams across multiple projects and companies.
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 #### 🎓 Education
 - **Software University** (January 2023-present) - Professional degree in Software Engineering with front-end web development
 - **University of Architecture, Civil Engineering and Geodesy** (2015-2020) - Bachelor of Arts in Computer Science
@@ -28,9 +31,6 @@ Boardgames, finances, volunteering, psychology, design, growing plants, basketba
 
 ## 📫 How to reach me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://bg.linkedin.com/in/daniel-batanov-6799b31a3)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ### Technologies and tools
 <img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
