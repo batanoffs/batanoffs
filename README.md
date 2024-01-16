@@ -3,6 +3,8 @@
 I'm from Bulgaria, passionate about design and software development, with 3+ years of experience in architecture. I am currently studying web development at Software University. I am a fast learner and am able to adapt to the project deadline. Eager to improve and capitalize on excellent soft skills. I am experienced in working with both small and large teams across multiple projects and companies.
 
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-287862%20lines%20of%20code-blue)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -17,6 +19,13 @@ I'm from Bulgaria, passionate about design and software development, with 3+ yea
 📊 **This Week I Spent My Time On** 
 
 ```text
+💬 Programming Languages: 
+JavaScript               18 hrs 49 mins      ████████████░░░░░░░░░░░░░   51.45% 
+CSS                      16 hrs 14 mins      ███████████░░░░░░░░░░░░░░   44.38% 
+HTML                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.78% 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22% 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15%
+
 ```
 
 
