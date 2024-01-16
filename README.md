@@ -2,7 +2,7 @@
 I'm from Bulgaria, passionate about design and software development, with 3+ years of experience in architecture. I am currently studying web development at Software University. I am a fast learner and am able to adapt to the project deadline. Eager to improve and capitalize on excellent soft skills. I am experienced in working with both small and large teams across multiple projects and companies.
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-287862%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-287862%20lines%20of%20code-blue) [![Total time coding](https://wakatime.com/badge/user/af913b47-72ab-422e-94c8-f9b79b53f4d0.svg)](https://wakatime.com/@af913b47-72ab-422e-94c8-f9b79b53f4d0)
 
 **I'm an Early 🐤** 
 
