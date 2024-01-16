@@ -69,7 +69,7 @@ Boardgames, finances, volunteering, psychology, design, growing plants, basketba
 <img align="left" alt="mocha" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/vscode/vscode-original.svg"/>
 <br> </br>
 
-## Certificates
+### Certificates
 | Course                                                                                              | Grade                     | Finish Date       |
 | --------------------------------------------------------------------------------------------------- | ------------------------- | ----------------- |
 | [Programming Basics with JavaScript](https://softuni.bg/Certificates/Details/159814/4fcfee60)       | Grade: 5.81 (out of 6.00) | February 21, 2023 |              
@@ -78,9 +78,10 @@ Boardgames, finances, volunteering, psychology, design, growing plants, basketba
 | [JavaScript Applications](https://softuni.bg/Certificates/Details/195298/1f9f9bde)                  | Grade: 6.00 (out of 6.00) | December 05, 2023 |
 
 <br> </br>
-
-### GitHub Trophies
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=batanoffs&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide=contribs" alt="GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batanoffs&layout=compact&hide_border=true" /> |
+### GitHub Stats
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=batanoffs&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide=contribs" alt="GitHub Stats" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=batanoffs&layout=compact&hide_border=true" alt="total commit strikes"/> |
 | ------------- | ------------- |
 
-<a href="#"><img align="center" src="https://github-profile-trophy.vercel.app/?username=batanoffs&column=-1&margin-w=8&margin-h=2" alt="GitHub Trophies" /></a>
+<!-- <a href="#"><img align="center" src="https://github-profile-trophy.vercel.app/?username=batanoffs&column=-1&margin-w=8&margin-h=2" alt="GitHub Trophies" /></a> -->
+
+
