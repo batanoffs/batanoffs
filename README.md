@@ -29,8 +29,8 @@ Boardgames, finances, volunteering, psychology, design, growing plants, basketba
 ## 📫 How to reach me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://bg.linkedin.com/in/daniel-batanov-6799b31a3)
 
-[//]: # (wakatime-stats)
-[//]: # (end-wakatime-stats)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### Technologies and tools
 <img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
