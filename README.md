@@ -1,4 +1,3 @@
-## 👋 Introduction & Bio
 ### Hi, I am Daniel Batanov 🇧🇬
 I'm from Bulgaria, passionate about design and software development, with 3+ years of experience in architecture. I am currently studying web development at Software University. I am a fast learner and am able to adapt to the project deadline. Eager to improve and capitalize on excellent soft skills. I am experienced in working with both small and large teams across multiple projects and companies.
 
