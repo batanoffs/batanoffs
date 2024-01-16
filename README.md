@@ -70,18 +70,19 @@ Boardgames, finances, volunteering, psychology, design, growing plants, basketba
 <br> </br>
 
 ### Certificates
-| Course                                                                                              | Grade                     | Finish Date       |
-| --------------------------------------------------------------------------------------------------- | ------------------------- | ----------------- |
-| [Programming Basics with JavaScript](https://softuni.bg/Certificates/Details/159814/4fcfee60)       | Grade: 5.81 (out of 6.00) | February 21, 2023 |              
-| [Programming Fundamentals with JavaScript](https://softuni.bg/Certificates/Details/180198/31625e83) | Grade: 5.73 (out of 6.00) | August   01, 2023 | 
-| [JavaScript Advanced](https://softuni.bg/Certificates/Details/195467/d2fe5f99)                      | Grade: 6.00 (out of 6.00) | December 07, 2023 |
-| [JavaScript Applications](https://softuni.bg/Certificates/Details/195298/1f9f9bde)                  | Grade: 6.00 (out of 6.00) | December 05, 2023 |
+| Course                                                                                              | Grade                     | Finish Date       | Git hub stats |
+| --------------------------------------------------------------------------------------------------- | ------------------------- | ----------------- | ------------- |
+| [Programming Basics with JavaScript](https://softuni.bg/Certificates/Details/159814/4fcfee60)       | Grade: 5.81 (out of 6.00) | February 21, 2023 |     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=batanoffs&layout=compact&hide_border=true" alt="total commit strikes"/>       |
+| [Programming Fundamentals with JavaScript](https://softuni.bg/Certificates/Details/180198/31625e83) | Grade: 5.73 (out of 6.00) | August   01, 2023 | ^ | 
+| [JavaScript Advanced](https://softuni.bg/Certificates/Details/195467/d2fe5f99)                      | Grade: 6.00 (out of 6.00) | December 07, 2023 |  |
+| [JavaScript Applications](https://softuni.bg/Certificates/Details/195298/1f9f9bde)                  | Grade: 6.00 (out of 6.00) | December 05, 2023 | ^ | 
 
+ <!--
 <br> </br>
 ### GitHub Stats
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=batanoffs&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide=contribs" alt="GitHub Stats" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=batanoffs&layout=compact&hide_border=true" alt="total commit strikes"/> |
-| ------------- | ------------- |
+| 
+| ------------- |
 
-<!-- <a href="#"><img align="center" src="https://github-profile-trophy.vercel.app/?username=batanoffs&column=-1&margin-w=8&margin-h=2" alt="GitHub Trophies" /></a> -->
+ <a href="#"><img align="center" src="https://github-profile-trophy.vercel.app/?username=batanoffs&column=-1&margin-w=8&margin-h=2" alt="GitHub Trophies" /></a> -->
 
 
