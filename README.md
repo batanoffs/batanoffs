@@ -3,6 +3,24 @@
 I'm from Bulgaria, passionate about design and software development, with 3+ years of experience in architecture. I am currently studying web development at Software University. I am a fast learner and am able to adapt to the project deadline. Eager to improve and capitalize on excellent soft skills. I am experienced in working with both small and large teams across multiple projects and companies.
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    39 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.26% 
+🌆 Daytime    123 commits    █████████████░░░░░░░░░░░░   54.42% 
+🌃 Evening    54 commits     ██████░░░░░░░░░░░░░░░░░░░   23.89% 
+🌙 Night      10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.42%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+```
+
+
+ Last Updated on 16/01/2024
 <!--END_SECTION:waka-->
 
 #### 🎓 Education
