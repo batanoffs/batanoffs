@@ -43,7 +43,7 @@ Markdown                 3 mins              ░░░░░░░░░░░�
     <td><a href="https://softuni.bg/Certificates/Details/159814/4fcfee60">Programming Basics with JavaScript</a></td>
     <td>5.81 (out of 6.00)</td>
     <td>February 21, 2023</td>
-    <td rowspan="4"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=batanoffs&layout=compact&hide_border=true" alt="total commit strikes"/></td>
+    <td rowspan="5"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=batanoffs&layout=compact&hide_border=true" alt="total commit strikes"/></td>
   </tr>
   <tr>
     <td><a href="https://softuni.bg/Certificates/Details/180198/31625e83">Programming Fundamentals with JavaScript</a></td>
@@ -59,6 +59,11 @@ Markdown                 3 mins              ░░░░░░░░░░░�
     <td><a href="https://softuni.bg/Certificates/Details/195298/1f9f9bde">JavaScript Applications</a></td>
     <td>6.00 (out of 6.00)</td>
     <td>December 05, 2023</td>
+  </tr>
+  <tr>
+    <td>HTML and CSS</td>
+    <td> in progress </td>
+    <td>January 08, 2023</td>
   </tr>
 </table>
 
