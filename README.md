@@ -31,6 +31,37 @@ Markdown                 3 mins              ░░░░░░░░░░░�
  Last Updated on 16/01/2024
 <!--END_SECTION:waka-->
 
+#### :scroll: Certificates
+<table>
+  <tr>
+    <th>Course</th>
+    <th>Grade</th>
+    <th>Finish Date</th>
+    <th>Git hub stats</th>
+  </tr>
+  <tr>
+    <td><a href="https://softuni.bg/Certificates/Details/159814/4fcfee60">Programming Basics with JavaScript</a></td>
+    <td>Grade: 5.81 (out of 6.00)</td>
+    <td>February 21, 2023</td>
+    <td rowspan="4"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=batanoffs&layout=compact&hide_border=true" alt="total commit strikes"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://softuni.bg/Certificates/Details/180198/31625e83">Programming Fundamentals with JavaScript</a></td>
+    <td>Grade: 5.73 (out of 6.00)</td>
+    <td>August 01, 2023</td>
+  </tr>
+  <tr>
+    <td><a href="https://softuni.bg/Certificates/Details/195467/d2fe5f99">JavaScript Advanced</a></td>
+    <td>Grade: 6.00 (out of 6.00)</td>
+    <td>December 07, 2023</td>
+  </tr>
+  <tr>
+    <td><a href="https://softuni.bg/Certificates/Details/195298/1f9f9bde">JavaScript Applications</a></td>
+    <td>Grade: 6.00 (out of 6.00)</td>
+    <td>December 05, 2023</td>
+  </tr>
+</table>
+
 #### 🎓 Education
 - **Software University** (January 2023-present) - Professional degree in Software Engineering with front-end web development
 - **University of Architecture, Civil Engineering and Geodesy** (2015-2020) - Bachelor of Arts in Computer Science
@@ -66,23 +97,9 @@ Boardgames, finances, volunteering, psychology, design, growing plants, basketba
 <img align="left" alt="mocha" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/mocha/mocha-plain.svg"/>
 <img align="left" alt="mocha" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/react/react-original.svg"/>
 <img align="left" alt="mocha" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
-<img align="left" alt="mocha" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/vscode/vscode-original.svg"/>
-<br> </br>
+<img align="left" alt="mocha" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/vscode/vscode-original.svg"/>  
 
-### Certificates
-| Course                                                                                              | Grade                     | Finish Date       | Git hub stats |
-| --------------------------------------------------------------------------------------------------- | ------------------------- | ----------------- | ------------- |
-| [Programming Basics with JavaScript](https://softuni.bg/Certificates/Details/159814/4fcfee60)       | Grade: 5.81 (out of 6.00) | February 21, 2023 |     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=batanoffs&layout=compact&hide_border=true" alt="total commit strikes"/>       |
-| [Programming Fundamentals with JavaScript](https://softuni.bg/Certificates/Details/180198/31625e83) | Grade: 5.73 (out of 6.00) | August   01, 2023 | ^ | 
-| [JavaScript Advanced](https://softuni.bg/Certificates/Details/195467/d2fe5f99)                      | Grade: 6.00 (out of 6.00) | December 07, 2023 |  |
-| [JavaScript Applications](https://softuni.bg/Certificates/Details/195298/1f9f9bde)                  | Grade: 6.00 (out of 6.00) | December 05, 2023 | ^ | 
+ <!-- <a href="#"><img align="center" src="https://github-profile-trophy.vercel.app/?username=batanoffs&column=-1&margin-w=8&margin-h=2" alt="GitHub Trophies" /></a> -->
 
- <!--
-<br> </br>
-### GitHub Stats
-| 
-| ------------- |
-
- <a href="#"><img align="center" src="https://github-profile-trophy.vercel.app/?username=batanoffs&column=-1&margin-w=8&margin-h=2" alt="GitHub Trophies" /></a> -->
 
 
