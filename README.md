@@ -69,7 +69,7 @@ Markdown                 3 mins              ░░░░░░░░░░░�
 
 #### 🎓 Education
 - **Software University** (January 2023-present) - Professional degree in Software Engineering with front-end web development
-- **University of Architecture, Civil Engineering and Geodesy** (2015-2020) - Bachelor of Arts in Computer Science
+- **University of Architecture, Civil Engineering and Geodesy** (2015-2020) - Master degree in Architecture
 - **High School of Mathematics Baba Tonka** - Profile - Information techmology
 
 #### 💻 Work
