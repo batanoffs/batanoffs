@@ -28,7 +28,6 @@ Markdown                 3 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 16/01/2024
 <!--END_SECTION:waka-->
 
 #### :scroll: Certificates
