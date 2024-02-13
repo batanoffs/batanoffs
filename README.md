@@ -2,32 +2,78 @@
 I'm from Bulgaria, passionate about design and software development, with 3+ years of experience in architecture. I am currently studying web development at Software University. I am a fast learner and am able to adapt to the project deadline. Eager to improve and capitalize on excellent soft skills. I am experienced in working with both small and large teams across multiple projects and companies.
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-287862%20lines%20of%20code-blue) [![Total time coding](https://wakatime.com/badge/user/af913b47-72ab-422e-94c8-f9b79b53f4d0.svg)](https://wakatime.com/@af913b47-72ab-422e-94c8-f9b79b53f4d0)
+![Code Time](http://img.shields.io/badge/Code%20Time-513%20hrs%2044%20mins-blue)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-340.2%20thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 90.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 179 Contributions in the Year 2024
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 5 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    39 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.26% 
-🌆 Daytime    123 commits    █████████████░░░░░░░░░░░░   54.42% 
-🌃 Evening    54 commits     ██████░░░░░░░░░░░░░░░░░░░   23.89% 
-🌙 Night      10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.42%
+🌞 Morning                41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+🌆 Daytime                228 commits         ███████████████░░░░░░░░░░   58.46 % 
+🌃 Evening                107 commits         ███████░░░░░░░░░░░░░░░░░░   27.44 % 
+🌙 Night                  14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+```
+📅 **I'm Most Productive on Friday** 
 
+```text
+Monday                   58 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+Tuesday                  74 commits          █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+Wednesday                34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+Thursday                 45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Friday                   97 commits          ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
+Saturday                 25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+Sunday                   57 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-💬 Programming Languages: 
-JavaScript               18 hrs 49 mins      ████████████░░░░░░░░░░░░░   51.45% 
-CSS                      16 hrs 14 mins      ███████████░░░░░░░░░░░░░░   44.38% 
-HTML                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.78% 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22% 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15%
+🕑︎ Time Zone: Europe/Sofia
 
+💬 Programming Languages: 
+JavaScript               13 hrs 33 mins      █████████████░░░░░░░░░░░░   53.57 % 
+CSS                      10 hrs 37 mins      ██████████░░░░░░░░░░░░░░░   42.00 % 
+HTML                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+
+🔥 Editors: 
+VS Code                  25 hrs 18 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Mini-finance-project     21 hrs 18 mins      █████████████████████░░░░   84.20 % 
+02. SOLVE                4 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               3 repos             ███████████████████░░░░░░   75.00 % 
+Python                   1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 ```
 
 
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/batanoffs/batanoffs/main/assets/bar_graph.png)
+
+
+ Last Updated on 13/02/2024 11:16:09 UTC
 <!--END_SECTION:waka-->
 
 #### :scroll: Certificates
