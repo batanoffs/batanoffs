@@ -2,7 +2,7 @@
 I'm from Bulgaria, passionate about design and software development, with 3+ years of experience in architecture. I am currently studying web development at Software University. I am a fast learner and am able to adapt to the project deadline. Eager to improve and capitalize on excellent soft skills. I am experienced in working with both small and large teams across multiple projects and companies.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-529%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-534%20hrs%2035%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-341.7%20thousand%20lines%20of%20code-blue)
 
@@ -33,18 +33,18 @@ Sunday                   57 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Sofia
 
 💬 Programming Languages: 
-JavaScript               10 hrs 32 mins      ████████████░░░░░░░░░░░░░   48.95 % 
-CSS                      9 hrs 57 mins       ████████████░░░░░░░░░░░░░   46.17 % 
-HTML                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+CSS                      12 hrs 15 mins      ██████████████░░░░░░░░░░░   54.42 % 
+JavaScript               8 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   38.18 % 
+HTML                     1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 33 mins      █████████████████████████   100.00 % 
+VS Code                  22 hrs 32 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Mini-finance-project     18 hrs 34 mins      ██████████████████████░░░   86.19 % 
-02. SOLVE                2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+Mini-finance-project     17 hrs 20 mins      ███████████████████░░░░░░   76.93 % 
+02. SOLVE                5 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
 ```
 
 **Timeline**
@@ -52,7 +52,7 @@ Mini-finance-project     18 hrs 34 mins      ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/batanoffs/batanoffs/main/assets/bar_graph.png)
 
 
- Last Updated on 17/02/2024 18:34:43 UTC
+ Last Updated on 18/02/2024 18:34:43 UTC
 <!--END_SECTION:waka-->
 
 #### :scroll: Certificates
