@@ -87,7 +87,7 @@ Mini-finance-project     17 hrs 20 mins      ███████████�
   <tr>
     <td>HTML and CSS</td>
     <td> in progress </td>
-    <td>January 08, 2023</td>
+    <td>February 18, 2023</td>
   </tr>
 </table>
 
