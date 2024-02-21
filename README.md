@@ -1,9 +1,12 @@
 ### Hi, I am Daniel Batanov 🇧🇬
 I'm from Bulgaria, passionate about design and software development, with 3+ years of experience in architecture. I am currently studying web development at Software University. I am a fast learner and am able to adapt to the project deadline. Eager to improve and capitalize on excellent soft skills. I am experienced in working with both small and large teams across multiple projects and companies.
 
+
+:clock7: **I track my coding time with  <a href="https://wakatime.com/@batanof"> wakatime </a>** 
+
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-542%20hrs%2052%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-342.6%20thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
