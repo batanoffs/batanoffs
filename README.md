@@ -92,9 +92,9 @@ Mini-finance-project     12 hrs 31 mins      ███████████�
     <td>December 05, 2023</td>
   </tr>
   <tr>
-    <td>HTML and CSS</td>
-    <td> in progress </td>
-    <td>February 18, 2023</td>
+    <td><a href="https://softuni.bg/certificates/details/205221/f430eb0f">HTML and CSS</a></td>
+    <td>6.00 (out of 6.00)</td>
+    <td>February 23, 2023</td>
   </tr>
 </table>
 
