@@ -117,7 +117,7 @@ develop an urban project for 7 days
 - **Erasmus + "Youthpass”** - Worked in team with Dutch attendance as a tutor of social and cultural workshop based in Varna, Bulgaria
 
 #### 🤹 Hobbies and interests: 
-Boardgames, finances, volunteering, psychology, design, growing plants, basketball, table tennis, squash, billiard
+Boardgames, finances, volunteering, psychology, design, basketball, table tennis, squash, billiard, growing plants
 
 ## 📫 How to reach me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://bg.linkedin.com/in/daniel-batanov-6799b31a3)
