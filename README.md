@@ -2,7 +2,7 @@
 I'm from Bulgaria, passionate about design and software development, with 3+ years of experience in architecture. I am currently studying web development at Software University. I am a fast learner and am able to adapt to the project deadline. Eager to improve and capitalize on excellent soft skills. I am experienced in working with both small and large teams across multiple projects and companies.
 
 
-:clock7: **I track my coding time with  <a href="https://wakatime.com/@batanof"> wakatime </a>** 
+:clock7: **I track my coding time with wakatime checkout my <a href="https://wakatime.com/@batanof"> profile </a>** 
 
 
 <!--START_SECTION:waka-->
