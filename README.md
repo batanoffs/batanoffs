@@ -109,6 +109,7 @@ mini-finance-innovations 0 secs              ░░░░░░░░░░░�
 - **Quality Assurance** - Gameloft
 
 #### 🏆 Awards
+- **Top 10** - SoftUniada2024 Programing Olympiad in web projects category with overall 157 participants
 - **2st place** - Interdisciplinary Student Workshop - worked in a team of 8 individuals as a leader to
 develop an urban project for 7 days
 - **Top 10** - Multiple Math Olympiads - high school
@@ -127,6 +128,8 @@ Boardgames, finances, volunteering, psychology, design, basketball, table tennis
 ### Technologies and tools
 <img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="left" alt="SASS" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sass/sass-original.svg"/>
+<img align="left" alt="Tailwind" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg"/>
 <img align="left" alt="JS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="github" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
 <img align="left" alt="vite" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg"/>
