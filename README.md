@@ -6,7 +6,7 @@ I'm from Bulgaria, passionate about design and software development, with 3+ yea
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-724%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-728%20hrs%2041%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-384.2%20thousand%20lines%20of%20code-blue)
 
@@ -37,14 +37,18 @@ Sunday                   90 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Sofia
 
 💬 Programming Languages: 
-TypeScript               10 mins             █████████████████░░░░░░░░   66.62 % 
-JSON                     5 mins              ████████░░░░░░░░░░░░░░░░░   33.38 % 
+TypeScript               1 hr 51 mins        █████████████████░░░░░░░░   67.65 % 
+JSON                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+HTML                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+Markdown                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+JavaScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
 
 🔥 Editors: 
-VS Code                  16 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 45 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-portfolio                16 mins             █████████████████████████   100.00 % 
+e-books                  2 hrs 22 mins       ██████████████████████░░░   86.09 % 
+portfolio                22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
 ```
 
 **Timeline**
@@ -52,7 +56,7 @@ portfolio                16 mins             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/batanoffs/batanoffs/main/assets/bar_graph.png)
 
 
- Last Updated on 08/05/2024 18:36:45 UTC
+ Last Updated on 09/05/2024 18:35:17 UTC
 <!--END_SECTION:waka-->
 
 #### :scroll: Certificates
