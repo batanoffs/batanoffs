@@ -1,9 +1,10 @@
 ### Hi, I am Daniel Batanov 🇧🇬
-I'm from Bulgaria, passionate about design and software development, with 3+ years of experience in architecture. I am currently studying web development at Software University. I am a fast learner and am able to adapt to the project deadline. Eager to improve and capitalize on excellent soft skills. I am experienced in working with both small and large teams across multiple projects and companies.
-
 
 :clock7: **I track my coding time with wakatime checkout my <a href="https://wakatime.com/@batanof"> profile </a>** 
 
+📫 **You can reach me on** 
+<a href="https://www.linkedin.com/in/danielbatanov"> 
+<img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 80px; height: 20px;"> </a> 
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-753%20hrs%2026%20mins-blue)
@@ -122,9 +123,6 @@ develop an urban project for 7 days
 
 #### 🤹 Hobbies and interests: 
 Boardgames, finances, volunteering, psychology, design, basketball, table tennis, squash, billiard, growing plants
-
-## 📫 How to reach me
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://bg.linkedin.com/in/daniel-batanov-6799b31a3)
 
 ### Technologies and tools
 <img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
