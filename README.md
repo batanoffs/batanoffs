@@ -1,7 +1,6 @@
 ### Hi, I am Daniel Batanov 🇧🇬
 
-📫 **You can reach me on** 
-
+**You can reach me on** <br/>
 <a href="https://www.linkedin.com/in/danielbatanov"> 
 <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 80px; height: 20px;"> </a> 
 
