@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 80px; height: 20px;"> </a> 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-783%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-786%20hrs%2014%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-393.4%20thousand%20lines%20of%20code-blue)
 
@@ -36,21 +36,20 @@ Sunday                   98 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Sofia
 
 💬 Programming Languages: 
-TypeScript               21 hrs 50 mins      ████████████████████░░░░░   81.65 % 
-JSON                     3 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+TypeScript               21 hrs 50 mins      ████████████████████░░░░░   81.67 % 
+JSON                     3 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
 CSS                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 JavaScript               24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-HTML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+HTML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 🔥 Editors: 
 VS Code                  26 hrs 44 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-portfolio                26 hrs 18 mins      █████████████████████████   98.36 % 
+portfolio                26 hrs 18 mins      █████████████████████████   98.39 % 
 animation                16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 mini-finance-innovations 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 ra-auth-ui               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-01.MagmaHaven_Resources  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
 **Timeline**
@@ -58,7 +57,7 @@ ra-auth-ui               3 mins              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/batanoffs/batanoffs/main/assets/bar_graph.png)
 
 
- Last Updated on 02/06/2024 18:36:24 UTC
+ Last Updated on 03/06/2024 18:39:03 UTC
 <!--END_SECTION:waka-->
 
 #### :scroll: Certificates
