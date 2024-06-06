@@ -1,7 +1,6 @@
 ### Hi, I am Daniel Batanov 🇧🇬
 
-<a href="https://www.linkedin.com/in/danielbatanov"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 80px; height: 20px;"> </a> 
-[![Portfolio website](https://img.shields.io/badge/Portfolio_website-link-blue)](https://danielbatanov.netlify.app) 
+<a href="https://www.linkedin.com/in/danielbatanov"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 80px; height: 20px;"></a> [![Portfolio website](https://img.shields.io/badge/Portfolio_website-link-blue)](https://danielbatanov.netlify.app) 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-789%20hrs%201%20min-blue)
 
