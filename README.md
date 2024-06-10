@@ -90,6 +90,11 @@ mini-finance-innovations 3 mins              ░░░░░░░░░░░�
     <td>6.00 (out of 6.00)</td>
     <td>February 23, 2023</td>
   </tr>
+  <tr>
+    <td>JS Back-End (Node.js)</td>
+    <td>in progress</td>
+    <td>May 14, 2024</td>
+  </tr>
 </table>
 
 #### 🎓 Education
