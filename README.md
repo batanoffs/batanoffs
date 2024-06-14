@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/danielbatanov"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 80px; height: 20px;"></a> [![Portfolio website](https://img.shields.io/badge/Portfolio_website-link-blue)](https://danielbatanov.netlify.app) 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-799%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-800%20hrs%2054%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-401.4%20thousand%20lines%20of%20code-blue)
 
@@ -33,17 +33,17 @@ Sunday                   98 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Sofia
 
 💬 Programming Languages: 
-JavaScript               6 hrs 13 mins       ████████████████░░░░░░░░░   65.21 % 
-HTML                     1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
-JSON                     1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-CSS                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+JavaScript               5 hrs 40 mins       ████████████████░░░░░░░░░   65.75 % 
+HTML                     1 hr 40 mins        █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
+JSON                     1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+CSS                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 32 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 37 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-06. Backend NodeJS       9 hrs 32 mins       █████████████████████████   100.00 % 
+06. Backend NodeJS       8 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -51,7 +51,7 @@ VS Code                  9 hrs 32 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/batanoffs/batanoffs/main/assets/bar_graph.png)
 
 
- Last Updated on 13/06/2024 18:38:48 UTC
+ Last Updated on 14/06/2024 18:38:51 UTC
 <!--END_SECTION:waka-->
 
 #### :scroll: Certificates
