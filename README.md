@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/danielbatanov"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 80px; height: 20px;"></a> [![Portfolio website](https://img.shields.io/badge/Portfolio_website-link-blue)](https://danielbatanov.netlify.app) 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-825%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-828%20hrs%2023%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-421.3%20thousand%20lines%20of%20code-blue)
 
@@ -33,21 +33,21 @@ Sunday                   103 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Sofia
 
 💬 Programming Languages: 
-JavaScript               15 hrs 39 mins      ██████████████████░░░░░░░   73.04 % 
-HTML                     4 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
-JSON                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-TypeScript               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-Text                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+JavaScript               13 hrs 47 mins      █████████████████░░░░░░░░   68.60 % 
+HTML                     4 hrs               █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
+JSON                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+TypeScript               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Text                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 26 mins      █████████████████████████   100.00 % 
+VS Code                  20 hrs 5 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-06. Backend NodeJS       12 hrs 20 mins      ██████████████░░░░░░░░░░░   57.53 % 
-01.HomeCookingRecipes_Res4 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
-e-books                  2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-skelet-NodeJS            52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-home-cooking-recipes     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+06. Backend NodeJS       10 hrs 18 mins      █████████████░░░░░░░░░░░░   51.28 % 
+01.HomeCookingRecipes_Res4 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
+e-books                  3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+skelet-NodeJS            52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+home-cooking-recipes     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
 ```
 
 **Timeline**
@@ -55,7 +55,7 @@ home-cooking-recipes     48 mins             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/batanoffs/batanoffs/main/assets/bar_graph.png)
 
 
- Last Updated on 25/06/2024 18:38:59 UTC
+ Last Updated on 26/06/2024 18:38:39 UTC
 <!--END_SECTION:waka-->
 
 #### :scroll: Certificates
