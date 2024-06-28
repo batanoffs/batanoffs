@@ -93,9 +93,14 @@ skelet-NodeJS            49 mins             █░░░░░░░░░░�
     <td>February 23, 2023</td>
   </tr>
   <tr>
-    <td>JS Back-End (Node.js)</td>
+    <td><a href="https://softuni.bg/certificates/details/218275/6b86be8a">NodeJS Back-End</a></td>
+    <td>6.00 (out of 6.00)</td>
+    <td>June 28, 2024</td>
+  </tr>
+  <tr>
+    <td>React JS</td>
     <td>in progress</td>
-    <td>May 14, 2024</td>
+    <td>August 2024</td>
   </tr>
 </table>
 
