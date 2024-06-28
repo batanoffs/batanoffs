@@ -142,6 +142,9 @@ Boardgames, finances, volunteering, psychology, design, basketball, table tennis
 <img align="left" alt="react" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/react/react-original.svg"/>
 <img align="left" alt="github" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
 <img align="left" alt="vscode" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/vscode/vscode-original.svg"/>  
+<img align="left" alt="nodejs" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original-wordmark.svg"/>  
+<img align="left" alt="mongodb" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original-wordmark.svg"/>
+<img align="left" alt="express" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/express/express-original-wordmark.svg"/>
 
  <!-- <a href="#"><img align="center" src="https://github-profile-trophy.vercel.app/?username=batanoffs&column=-1&margin-w=8&margin-h=2" alt="GitHub Trophies" /></a> -->
 
