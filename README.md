@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/danielbatanov"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 80px; height: 20px;"></a> [![Portfolio website](https://img.shields.io/badge/Portfolio_website-link-blue)](https://danielbatanov.netlify.app) 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-848%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-853%20hrs%203%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-435.2%20thousand%20lines%20of%20code-blue)
 
@@ -33,21 +33,21 @@ Sunday                   107 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Sofia
 
 💬 Programming Languages: 
-TypeScript               9 hrs 37 mins       █████████████░░░░░░░░░░░░   53.93 % 
-JSON                     2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-JavaScript               2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-CSS                      1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-Markdown                 52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+TypeScript               14 hrs 30 mins      ████████████████░░░░░░░░░   64.07 % 
+JavaScript               2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+JSON                     2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+CSS                      1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+Markdown                 47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 50 mins      █████████████████████████   100.00 % 
+VS Code                  22 hrs 38 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-e-books                  12 hrs 49 mins      ██████████████████░░░░░░░   71.83 % 
-ra-auth-ui               3 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
-portfolio                50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-06. Backend NodeJS       18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-TypeScript-MERN-Starter-m7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+e-books                  17 hrs 9 mins       ███████████████████░░░░░░   75.81 % 
+ra-auth-ui               3 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+portfolio                50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+06. Backend NodeJS       36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+admin                    22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 ```
 
 **Timeline**
@@ -55,7 +55,7 @@ TypeScript-MERN-Starter-m7 mins              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/batanoffs/batanoffs/main/assets/bar_graph.png)
 
 
- Last Updated on 02/07/2024 18:38:23 UTC
+ Last Updated on 03/07/2024 18:36:49 UTC
 <!--END_SECTION:waka-->
 
 #### :scroll: Certificates
