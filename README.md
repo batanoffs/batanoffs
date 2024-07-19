@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/danielbatanov"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 80px; height: 20px;"></a> [![Portfolio website](https://img.shields.io/badge/Portfolio_website-link-blue)](https://danielbatanov.netlify.app) 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-905%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-908%20hrs%2056%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-442.3%20thousand%20lines%20of%20code-blue)
 
@@ -33,18 +33,18 @@ Sunday                   109 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Sofia
 
 💬 Programming Languages: 
-TypeScript               17 hrs 24 mins      ██████████████████░░░░░░░   73.42 % 
-SCSS                     5 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   22.82 % 
-Markdown                 24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-Other                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+TypeScript               16 hrs 47 mins      ███████████████████░░░░░░   74.26 % 
+SCSS                     4 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
+Markdown                 24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Image (svg)              23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Other                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 42 mins      █████████████████████████   100.00 % 
+VS Code                  22 hrs 36 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-e-books                  23 hrs 40 mins      █████████████████████████   99.84 % 
-mini-finance-innovations 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+e-books                  22 hrs 34 mins      █████████████████████████   99.83 % 
+mini-finance-innovations 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 ```
 
 **Timeline**
@@ -52,7 +52,7 @@ mini-finance-innovations 2 mins              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/batanoffs/batanoffs/main/assets/bar_graph.png)
 
 
- Last Updated on 18/07/2024 18:39:41 UTC
+ Last Updated on 19/07/2024 18:38:50 UTC
 <!--END_SECTION:waka-->
 
 #### :scroll: Certificates
