@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/danielbatanov"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 80px; height: 20px;"></a> [![Portfolio website](https://img.shields.io/badge/Portfolio_website-link-blue)](https://danielbatanov.netlify.app) 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-932%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-938%20hrs%2023%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-445.0%20thousand%20lines%20of%20code-blue)
 
@@ -33,17 +33,18 @@ Sunday                   110 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Sofia
 
 💬 Programming Languages: 
-TypeScript               25 hrs 46 mins      ████████████████████░░░░░   81.30 % 
-SCSS                     3 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-Text                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-Image (svg)              23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-JavaScript               22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+TypeScript               28 hrs 54 mins      █████████████████████░░░░   84.67 % 
+SCSS                     2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+Text                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+JavaScript               25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+Image (svg)              23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 🔥 Editors: 
-VS Code                  31 hrs 42 mins      █████████████████████████   100.00 % 
+VS Code                  34 hrs 8 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-e-books                  31 hrs 42 mins      █████████████████████████   100.00 % 
+e-books                  34 hrs 7 mins       █████████████████████████   99.94 % 
+mini-finance-innovations 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 ```
 
 **Timeline**
@@ -51,7 +52,7 @@ e-books                  31 hrs 42 mins      ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/batanoffs/batanoffs/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2024 18:41:13 UTC
+ Last Updated on 25/07/2024 18:37:00 UTC
 <!--END_SECTION:waka-->
 
 #### :scroll: Certificates
