@@ -1,59 +1,28 @@
 ### Hi, I am Daniel Batanov 🇧🇬
 
-<a href="https://www.linkedin.com/in/danielbatanov"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 80px; height: 20px;"></a> [![Portfolio website](https://img.shields.io/badge/Portfolio_website-link-blue)](https://danielbatanov.netlify.app) 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-990%20hrs%2058%20mins-blue)
+Portfolio website - [https://danielbatanov.netlify.app/](https://danielbatanov.netlify.app/)
+   
+<a href="https://www.linkedin.com/in/danielbatanov"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 80px; height: 20px;"></a>        
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-454.7%20thousand%20lines%20of%20code-blue)
+### Technologies and tools
+<img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="left" alt="SASS" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sass/sass-original.svg"/>
+<img align="left" alt="Tailwind" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg"/>
+<img align="left" alt="JS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="github" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
+<img align="left" alt="vite" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg"/>
+<img align="left" alt="mocha" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/mocha/mocha-plain.svg"/>
+<img align="left" alt="typescript" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/typescript/typescript-plain.svg"/>
+<img align="left" alt="react" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/react/react-original.svg"/>
+<img align="left" alt="github" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
+<img align="left" alt="vscode" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/vscode/vscode-original.svg"/>  
+<img align="left" alt="nodejs" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original-wordmark.svg"/>  
+<img align="left" alt="mongodb" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original-wordmark.svg"/>
+<img align="left" alt="express" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/express/express-original-wordmark.svg"/>
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                111 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-🌆 Daytime                469 commits         ███████████░░░░░░░░░░░░░░   43.67 % 
-🌃 Evening                436 commits         ██████████░░░░░░░░░░░░░░░   40.60 % 
-🌙 Night                  58 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   159 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-Tuesday                  200 commits         █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
-Wednesday                140 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-Thursday                 155 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-Friday                   172 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
-Saturday                 119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-Sunday                   129 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Sofia
-
-💬 Programming Languages: 
-TypeScript               26 hrs 25 mins      ███████████████████░░░░░░   74.56 % 
-SCSS                     2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-Markdown                 2 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
-HTML                     2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Todotxt                  34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-
-🔥 Editors: 
-VS Code                  35 hrs 26 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-e-books                  33 hrs 19 mins      ████████████████████████░   94.06 % 
-test                     2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
-```
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/batanoffs/batanoffs/main/assets/bar_graph.png)
-
-
- Last Updated on 09/08/2024 18:40:10 UTC
-<!--END_SECTION:waka-->
+</br>
+</br>
 
 #### :scroll: Certificates
 <table>
@@ -126,22 +95,64 @@ develop an urban project for 7 days
 #### 🤹 Hobbies and interests: 
 Boardgames, finances, volunteering, psychology, design, basketball, table tennis, squash, billiard, growing plants
 
-### Technologies and tools
-<img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img align="left" alt="SASS" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sass/sass-original.svg"/>
-<img align="left" alt="Tailwind" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg"/>
-<img align="left" alt="JS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="github" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
-<img align="left" alt="vite" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg"/>
-<img align="left" alt="mocha" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/mocha/mocha-plain.svg"/>
-<img align="left" alt="typescript" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/typescript/typescript-plain.svg"/>
-<img align="left" alt="react" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/react/react-original.svg"/>
-<img align="left" alt="github" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
-<img align="left" alt="vscode" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/vscode/vscode-original.svg"/>  
-<img align="left" alt="nodejs" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original-wordmark.svg"/>  
-<img align="left" alt="mongodb" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original-wordmark.svg"/>
-<img align="left" alt="express" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/express/express-original-wordmark.svg"/>
+
+
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-990%20hrs%2058%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-454.7%20thousand%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                111 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+🌆 Daytime                469 commits         ███████████░░░░░░░░░░░░░░   43.67 % 
+🌃 Evening                436 commits         ██████████░░░░░░░░░░░░░░░   40.60 % 
+🌙 Night                  58 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   159 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+Tuesday                  200 commits         █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
+Wednesday                140 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Thursday                 155 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+Friday                   172 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+Saturday                 119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+Sunday                   129 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Sofia
+
+💬 Programming Languages: 
+TypeScript               26 hrs 25 mins      ███████████████████░░░░░░   74.56 % 
+SCSS                     2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+Markdown                 2 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+HTML                     2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Todotxt                  34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+
+🔥 Editors: 
+VS Code                  35 hrs 26 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+e-books                  33 hrs 19 mins      ████████████████████████░   94.06 % 
+test                     2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+```
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/batanoffs/batanoffs/main/assets/bar_graph.png)
+
+
+ Last Updated on 09/08/2024 18:40:10 UTC
+<!--END_SECTION:waka-->
+
+
 
  <!-- <a href="#"><img align="center" src="https://github-profile-trophy.vercel.app/?username=batanoffs&column=-1&margin-w=8&margin-h=2" alt="GitHub Trophies" /></a> -->
 
