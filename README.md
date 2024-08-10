@@ -77,6 +77,8 @@ Portfolio website - [https://danielbatanov.netlify.app/](https://danielbatanov.n
 - **High School of Mathematics Baba Tonka** - Profile - Information techmology
 
 #### 💻 Work
+- **Freelancer** - Web applications
+- **Internship** - Frontend developer
 - **Architect** - IPA architecture and more
 - **Junior architect** - Design Art K&K
 - **Junior architect** - Integra Consult Project
