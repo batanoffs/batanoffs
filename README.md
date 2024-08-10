@@ -4,26 +4,6 @@ Portfolio website - [https://danielbatanov.netlify.app/](https://danielbatanov.n
    
 <a href="https://www.linkedin.com/in/danielbatanov"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 80px; height: 20px;"></a>        
 
-### Technologies and tools
-<img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img align="left" alt="SASS" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sass/sass-original.svg"/>
-<img align="left" alt="Tailwind" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg"/>
-<img align="left" alt="JS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="github" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
-<img align="left" alt="vite" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg"/>
-<img align="left" alt="mocha" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/mocha/mocha-plain.svg"/>
-<img align="left" alt="typescript" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/typescript/typescript-plain.svg"/>
-<img align="left" alt="react" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/react/react-original.svg"/>
-<img align="left" alt="github" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
-<img align="left" alt="vscode" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/vscode/vscode-original.svg"/>  
-<img align="left" alt="nodejs" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original-wordmark.svg"/>  
-<img align="left" alt="mongodb" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original-wordmark.svg"/>
-<img align="left" alt="express" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/express/express-original-wordmark.svg"/>
-
-</br>
-</br>
-
 #### :scroll: Certificates
 <table>
   <tr>
@@ -69,6 +49,27 @@ Portfolio website - [https://danielbatanov.netlify.app/](https://danielbatanov.n
     <td>August 2024</td>
   </tr>
 </table>
+
+
+### Technologies and tools
+<img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="left" alt="SASS" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sass/sass-original.svg"/>
+<img align="left" alt="Tailwind" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg"/>
+<img align="left" alt="JS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="github" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
+<img align="left" alt="vite" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg"/>
+<img align="left" alt="mocha" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/mocha/mocha-plain.svg"/>
+<img align="left" alt="typescript" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/typescript/typescript-plain.svg"/>
+<img align="left" alt="react" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/react/react-original.svg"/>
+<img align="left" alt="github" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
+<img align="left" alt="vscode" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/vscode/vscode-original.svg"/>  
+<img align="left" alt="nodejs" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original-wordmark.svg"/>  
+<img align="left" alt="mongodb" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original-wordmark.svg"/>
+<img align="left" alt="express" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/express/express-original-wordmark.svg"/>
+
+</br>
+</br>
 
 #### 🎓 Education
 - **Software University** (January 2023-present) - Professional degree in Software Engineering with full-stack web development
