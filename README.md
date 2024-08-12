@@ -70,6 +70,7 @@ Portfolio website - [https://danielbatanov.netlify.app/](https://danielbatanov.n
 
 </br>
 </br>
+</br>
 
 #### 🎓 Education
 - **Software University** (January 2023-present) - Professional degree in Software Engineering with full-stack web development
