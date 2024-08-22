@@ -15,38 +15,38 @@ Portfolio website - [https://danielbatanov.netlify.app/](https://danielbatanov.n
   <tr>
     <td><a href="https://softuni.bg/Certificates/Details/159814/4fcfee60">Programming Basics with JavaScript</a></td>
     <td>5.81 (out of 6.00)</td>
-    <td>February 21, 2023</td>
+    <td>February, 2023</td>
     <td rowspan="7"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=batanoffs&layout=compact&hide_border=true" alt="total commit strikes"/></td>
   </tr>
   <tr>
     <td><a href="https://softuni.bg/Certificates/Details/180198/31625e83">Programming Fundamentals with JavaScript</a></td>
     <td>5.73 (out of 6.00)</td>
-    <td>August 01, 2023</td>
+    <td>August, 2023</td>
   </tr>
   <tr>
     <td><a href="https://softuni.bg/Certificates/Details/195467/d2fe5f99">JavaScript Advanced</a></td>
     <td>6.00 (out of 6.00)</td>
-    <td>December 07, 2023</td>
+    <td>December, 2023</td>
   </tr>
   <tr>
     <td><a href="https://softuni.bg/Certificates/Details/195298/1f9f9bde">JavaScript Applications</a></td>
     <td>6.00 (out of 6.00)</td>
-    <td>December 05, 2023</td>
+    <td>December, 2023</td>
   </tr>
   <tr>
     <td><a href="https://softuni.bg/certificates/details/205221/f430eb0f">HTML and CSS</a></td>
     <td>6.00 (out of 6.00)</td>
-    <td>February 23, 2023</td>
+    <td>February, 2023</td>
   </tr>
   <tr>
     <td><a href="https://softuni.bg/certificates/details/218275/6b86be8a">NodeJS Back-End</a></td>
     <td>6.00 (out of 6.00)</td>
-    <td>June 28, 2024</td>
+    <td>June, 2024</td>
   </tr>
   <tr>
-    <td>React JS</td>
-    <td>in progress</td>
-    <td>August 2024</td>
+    <td><a href="https://softuni.bg/Certificates/Details/223751/509209a4">React JS</a></td>
+    <td>6.00 (out of 6.00)</td>
+    <td>August, 2024</td>
   </tr>
 </table>
 
