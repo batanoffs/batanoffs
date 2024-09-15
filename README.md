@@ -16,7 +16,7 @@ Portfolio website - [https://danielbatanov.netlify.app/](https://danielbatanov.n
     <td><a href="https://softuni.bg/Certificates/Details/159814/4fcfee60">Programming Basics with JavaScript</a></td>
     <td>5.81 (out of 6.00)</td>
     <td>February, 2023</td>
-    <td rowspan="7"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=batanoffs&layout=compact&hide_border=true" alt="total commit strikes"/></td>
+    <td rowspan="8"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=batanoffs&layout=compact&hide_border=true" alt="total commit strikes"/></td>
   </tr>
   <tr>
     <td><a href="https://softuni.bg/Certificates/Details/180198/31625e83">Programming Fundamentals with JavaScript</a></td>
@@ -47,6 +47,11 @@ Portfolio website - [https://danielbatanov.netlify.app/](https://danielbatanov.n
     <td><a href="https://softuni.bg/Certificates/Details/223751/509209a4">React JS</a></td>
     <td>6.00 (out of 6.00)</td>
     <td>August, 2024</td>
+  </tr>
+  <tr>
+    <td><a href="">MySQL</a></td>
+    <td> ongoing</td>
+    <td> ongoing</td>
   </tr>
 </table>
 
