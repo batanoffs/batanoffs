@@ -1,10 +1,31 @@
-### Hi, I am Daniel Batanov 🇧🇬
+### Hi, there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-Portfolio website - [https://danielbatanov.netlify.app/](https://danielbatanov.netlify.app/)
-   
-<a href="https://www.linkedin.com/in/danielbatanov"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 80px; height: 20px;"></a>        
+I'm [**Daniel**](https://danielbatanov.netlify.app/), a software engineer based in Bulgaria.   
 
-#### :scroll: Certificates
+I like combining my technical knowledge with design to make beautiful and efficient applications. My goal is to build scalable and efficient software while providing engaging and flawless user experiences.
+
+#### 🎓 Education
+- **Software University(SoftUni)** - Web Developer
+- **University of Architecture, Civil Engineering and Geodesy** - Master degree in Architecture
+- **High School of Mathematics Baba Tonka** - Information techmology
+
+#### 💻 Work
+- **Intern Frontend Developer** - Humble Software Ltd.
+- **Architect** - IPA architecture and more
+- **Intern architect** - Design Art K&K
+- **Intern architect** - Integra Consult Project
+- **Manual QA** - Gameloft
+
+#### 🏆 Awards
+- **Top 10** - SoftUniada2024 Programing Olympiad in web projects category with overall 157 participants
+
+#### :busts_in_silhouette: Workshops
+- **Youth Festival "The Bridge"** - teacher for an architecture workshop able to inspire design thinking in youth
+- **Erasmus + "Youthpass”** - Worked in team with Dutch attendance as a tutor of social and cultural workshop based in Varna, Bulgaria
+
+#### 🤹 Hobbies and interests: 
+Boardgames, finances, volunteering, psychology, design, basketball, table tennis, squash, billiard, growing plants
+
 <table>
   <tr>
     <th>Course</th>
@@ -54,57 +75,6 @@ Portfolio website - [https://danielbatanov.netlify.app/](https://danielbatanov.n
     <td> ongoing</td>
   </tr>
 </table>
-
-
-### Technologies and tools
-<img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img align="left" alt="SASS" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sass/sass-original.svg"/>
-<img align="left" alt="Tailwind" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg"/>
-<img align="left" alt="JS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="github" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
-<img align="left" alt="vite" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg"/>
-<img align="left" alt="mocha" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/mocha/mocha-plain.svg"/>
-<img align="left" alt="typescript" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/typescript/typescript-plain.svg"/>
-<img align="left" alt="react" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/react/react-original.svg"/>
-<img align="left" alt="github" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
-<img align="left" alt="vscode" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/vscode/vscode-original.svg"/>  
-<img align="left" alt="nodejs" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original-wordmark.svg"/>  
-<img align="left" alt="mongodb" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original-wordmark.svg"/>
-<img align="left" alt="express" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/express/express-original-wordmark.svg"/>
-
-</br>
-</br>
-</br>
-
-#### 🎓 Education
-- **Software University** (January 2023-present) - Professional degree in Software Engineering with full-stack web development
-- **University of Architecture, Civil Engineering and Geodesy** (2015-2020) - Master degree in Architecture
-- **High School of Mathematics Baba Tonka** - Profile - Information techmology
-
-#### 💻 Work
-- **Freelancer** - Web applications
-- **Internship** - Frontend developer
-- **Architect** - IPA architecture and more
-- **Junior architect** - Design Art K&K
-- **Junior architect** - Integra Consult Project
-- **Quality Assurance** - Gameloft
-
-#### 🏆 Awards
-- **Top 10** - SoftUniada2024 Programing Olympiad in web projects category with overall 157 participants
-- **2st place** - Interdisciplinary Student Workshop - worked in a team of 8 individuals as a leader to
-develop an urban project for 7 days
-- **Top 10** - Multiple Math Olympiads - high school
-- **7th place** - Regional Chemistry Olympiad - high school
-
-#### :busts_in_silhouette: Workshops
-- **Youth Festival "The Bridge"** - teacher for an architecture workshop able to inspire design thinking in youth
-- **Erasmus + "Youthpass”** - Worked in team with Dutch attendance as a tutor of social and cultural workshop based in Varna, Bulgaria
-
-#### 🤹 Hobbies and interests: 
-Boardgames, finances, volunteering, psychology, design, basketball, table tennis, squash, billiard, growing plants
-
-
 
 
 <!--START_SECTION:waka-->
