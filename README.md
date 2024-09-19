@@ -4,7 +4,7 @@ I'm [**Daniel**](https://danielbatanov.netlify.app/), a software engineer based 
 
 I like combining my technical knowledge with design to make beautiful and efficient applications. My goal is to build scalable and efficient software while providing engaging and flawless user experiences.
 
-During my free time, I like to play board games, squash, or basketball. Research on trendy topics in the tech industry is always exciting. And last but not least, I do check on my balcony garden quite often during the season.
+During my free time, I play board games, squash, or basketball. Research on trendy topics in the tech industry. And last but not least, I do check on my balcony garden quite often during the season.
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C115%20hrs%2044%20mins-blue)
