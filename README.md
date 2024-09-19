@@ -48,24 +48,6 @@ VS Code                  22 hrs 44 mins      ███████████�
 
 
 <!--END_SECTION:waka-->
-#### 🎓 Education
-- **Software University(SoftUni)** - Web Developer
-- **University of Architecture, Civil Engineering and Geodesy** - Master degree in Architecture
-- **High School of Mathematics Baba Tonka** - Information techmology
-
-#### 💻 Work
-- **Intern Frontend Developer** - Humble Software Ltd.
-- **Architect** - IPA architecture and more
-- **Intern architect** - Design Art K&K
-- **Intern architect** - Integra Consult Project
-- **Manual QA** - Gameloft
-
-#### 🏆 Awards
-- **Top 10** - SoftUniada2024 Programing Olympiad in web projects category with overall 157 participants
-
-#### :busts_in_silhouette: Workshops
-- **Youth Festival "The Bridge"** - teacher for an architecture workshop able to inspire design thinking in youth
-- **Erasmus + "Youthpass”** - Worked in team with Dutch attendance as a tutor of social and cultural workshop based in Varna, Bulgaria
 
 #### 🤹 Hobbies and interests: 
 Boardgames, finances, volunteering, psychology, design, basketball, table tennis, squash, billiard, growing plants
