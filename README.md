@@ -7,7 +7,7 @@ I like combining my technical knowledge with design to make beautiful and effici
 During my free time, I like to play board games, squash, or basketball. Hike. Research on trendy topics in the tech industry. And last but not least, I do check on my balcony garden quite often during the season.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C172%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C173%20hrs%2052%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-488.0%20thousand%20lines%20of%20code-blue)
 
@@ -38,14 +38,14 @@ Sunday                   221 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Sofia
 
 💬 Programming Languages: 
-TypeScript               11 hrs 31 mins      ██████████████░░░░░░░░░░░   57.74 % 
-JSON                     2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-Bash                     1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
-SCSS                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-Markdown                 1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+TypeScript               16 hrs 28 mins      █████████████████░░░░░░░░   66.53 % 
+JSON                     2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+SCSS                     1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+Markdown                 1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+Bash                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 57 mins      █████████████████████████   100.00 % 
+VS Code                  24 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 
