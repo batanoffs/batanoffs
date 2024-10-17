@@ -96,9 +96,9 @@ VS Code                  33 hrs 44 mins      ███████████�
     <td>August, 2024</td>
   </tr>
   <tr>
-    <td><a href="">MySQL</a></td>
-    <td> ongoing</td>
-    <td> ongoing</td>
+    <td><a href="https://softuni.bg/certificates/details/226193/b51bd6a0">MySQL</a></td>
+    <td>6.00 (out of 6.00)</td>
+    <td>October, 2024</td>
   </tr>
 </table>
 
