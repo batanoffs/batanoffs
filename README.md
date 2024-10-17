@@ -83,7 +83,7 @@ VS Code                  33 hrs 44 mins      ███████████�
   <tr>
     <td><a href="https://softuni.bg/certificates/details/205221/f430eb0f">HTML and CSS</a></td>
     <td>6.00 (out of 6.00)</td>
-    <td>February, 2023</td>
+    <td>February, 2024</td>
   </tr>
   <tr>
     <td><a href="https://softuni.bg/certificates/details/218275/6b86be8a">NodeJS Back-End</a></td>
