@@ -6,7 +6,7 @@ I like combining my technical knowledge with design to make beautiful and effici
 
 During my free time, I like to play board games, squash, or basketball. Hike. Research on trendy topics in the tech industry. And last but not least, I do check on my balcony garden quite often during the season.
 
-My current tech stack: React, Typescript, Node/Express, MongoDB/Mongoose
+My current tech stack - React | Typescript | Node/Express | MongoDB/Mongoose
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C226%20hrs%205%20mins-blue)
