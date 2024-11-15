@@ -9,7 +9,7 @@ During my free time, I like to play board games, squash, or basketball. Hike. Re
 My current tech stack - React | Typescript | Node/Express | MongoDB/Mongoose and SQL
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C314%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C315%20hrs%2030%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-530.2%20thousand%20lines%20of%20code-blue)
 
@@ -40,14 +40,14 @@ Sunday                   276 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Sofia
 
 💬 Programming Languages: 
-JavaScript               11 hrs 52 mins      ██████████████░░░░░░░░░░░   54.46 % 
-TypeScript               4 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
-Markdown                 2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-CSS                      2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
-JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+JavaScript               10 hrs 59 mins      █████████████░░░░░░░░░░░░   51.99 % 
+TypeScript               4 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
+Markdown                 2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+CSS                      1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+JSON                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 47 mins      █████████████████████████   100.00 % 
+VS Code                  21 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 
