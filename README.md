@@ -103,9 +103,9 @@ VS Code                  29 hrs 2 mins       ███████████�
     <td>October, 2024</td>
   </tr>
    <tr>
-    <td><a href="">Angular</a></td>
-    <td>ongoing</td>
-    <td>ongoing</td>
+    <td><a href="https://softuni.bg/Certificates/Details/234678/df131946">Angular</a></td>
+    <td>6.00 (out of 6.00)</td>
+    <td>December, 2024</td>
   </tr>
 </table>
 
