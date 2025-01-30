@@ -9,17 +9,17 @@ During my free time, I like to play board games, squash, or basketball. Hike. Re
 My current tech stack - React | Typescript | Node/Express | MongoDB/Mongoose and SQL
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C577%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C583%20hrs%2044%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-745.6%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-750.1%20thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                542 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-🌆 Daytime                1723 commits        ██████████░░░░░░░░░░░░░░░   40.62 % 
-🌃 Evening                1694 commits        ██████████░░░░░░░░░░░░░░░   39.93 % 
-🌙 Night                  283 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+🌞 Morning                564 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+🌆 Daytime                1772 commits        ██████████░░░░░░░░░░░░░░░   40.98 % 
+🌃 Evening                1694 commits        ██████████░░░░░░░░░░░░░░░   39.18 % 
+🌙 Night                  294 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
 ```
 
 
