@@ -11,15 +11,15 @@ My current tech stack - React | Typescript | Node/Express | MongoDB/Mongoose and
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C756%20hrs%2055%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-817.3%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-824.5%20thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                603 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-🌆 Daytime                2130 commits        ███████████░░░░░░░░░░░░░░   43.68 % 
-🌃 Evening                1848 commits        █████████░░░░░░░░░░░░░░░░   37.90 % 
-🌙 Night                  295 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+🌞 Morning                603 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+🌆 Daytime                2143 commits        ███████████░░░░░░░░░░░░░░   43.82 % 
+🌃 Evening                1849 commits        █████████░░░░░░░░░░░░░░░░   37.81 % 
+🌙 Night                  295 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
 ```
 
 
