@@ -15,6 +15,16 @@ My current tech stack:
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-845.91%20thousand%20lines%20of%20code-blue?style=flat)
 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                583 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+🌆 Daytime                2338 commits        ████████████░░░░░░░░░░░░░   47.95 % 
+🌃 Evening                1660 commits        █████████░░░░░░░░░░░░░░░░   34.04 % 
+🌙 Night                  295 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+```
+
+
 
 <!--END_SECTION:waka-->
 
